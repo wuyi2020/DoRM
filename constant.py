@@ -1,0 +1,7 @@
+# Network args
+ALPHA = 0.005
+
+# loss weight args
+LOCAL_LOSS_WEIGHT = 1.0
+GLOBAL_LOSS_WEIGHT = 0.5
+CONSISTENT_LOSS_WEIGHT = 10.0
