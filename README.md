@@ -1,4 +1,4 @@
-# DoRM: Domain Re-Modulation for Few-Shot Generative Domain Adaption
+# DoRM: Domain Re-Modulation for Few-Shot Generative Domain Adaption (NeurIPS 2023)
 [![arXiv](https://img.shields.io/badge/arXiv-2302.02550-b31b1b.svg)](https://arxiv.org/abs/2302.02550)
 
 > **Domain Re-Modulation for Few-Shot Generative Domain Adaption**<br>
